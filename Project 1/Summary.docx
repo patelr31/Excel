@@ -1,0 +1,23 @@
+# Excel Health Risk Analysis Repository
+
+## 📌 Overview  
+This repository showcases an **Excel-based analysis of health risk factors**, focusing on chronic diseases, lifestyle choices, and demographic influences. The dataset includes indicators such as diabetes, high blood pressure, cholesterol levels, BMI, smoking habits, physical activity, and mental health statistics.
+
+## 📊 Key Features  
+- **Data Cleaning & Preparation** – Handling missing values and structuring the dataset for analysis.  
+- **Pivot Tables & Charts** – Summarizing key health metrics and trends.  
+- **Interactive Dashboard** – A visual report displaying patterns in health conditions, lifestyle behaviors, and demographics.  
+- **Statistical Analysis** – Identifying correlations between risk factors such as BMI, smoking, and heart disease.  
+
+## 🎯 Purpose  
+- To demonstrate **Excel-based data analysis** using real-world health data.  
+- To showcase **data visualization techniques** with pivot charts and conditional formatting.  
+- To provide insights into **health risk factors and lifestyle impact**.  
+
+## 📂 How to Navigate  
+Each folder contains:  
+- The **Excel workbook (.xlsx/.xlsb)** with analysis and dashboards.  
+- A **brief summary of key insights** derived from the data.  
+- Supporting files (if applicable) for additional exploration.  
+
+Feel free to explore, analyze, and provide feedback!  
